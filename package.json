@@ -1,0 +1,20 @@
+{
+  "name": "restapienglishforkids01",
+  "version": "1.0.0",
+  "description": "rest ap ienglish for kids 01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernando1907/restapienglishforkids01.git"
+  },
+  "keywords": [],
+  "author": "git add",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernando1907/restapienglishforkids01/issues"
+  },
+  "homepage": "https://github.com/fernando1907/restapienglishforkids01#readme"
+}
